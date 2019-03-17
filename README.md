@@ -27,8 +27,8 @@ Things you may want to cover:
 `rake db:create`
 
 * Database initialization  
-`rake db:migrate
-rails s`
+`rake db:migrate`  
+`rails s`
 
 * How to run the test suite
 
