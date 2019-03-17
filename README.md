@@ -14,17 +14,21 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-  ruby '2.4.2'
+  - ruby '2.4.2'
 
 * System dependencies
-  rails '5.2.2.1'
-  sqlite3 '1.3.13'
+  - rails '5.2.2.1'
+  - sqlite3 '1.3.13'
 
-* Configuration
+* Configuration  
+`bundle`
 
-* Database creation
+* Database creation  
+`rake db:create`
 
-* Database initialization
+* Database initialization  
+`rake db:migrate
+rails s`
 
 * How to run the test suite
 
